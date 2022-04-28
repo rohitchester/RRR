@@ -1,0 +1,40 @@
+body {
+background-color: lavenderblush;
+}
+
+a:link {
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: none;
+}
+
+#nav-bar {
+    height: inherit;
+}
+
+#about {
+   justify-content: center;
+}
+
+.img-about {
+  border: 3px solid rgb(236, 168, 168);
+  height: 450px;
+  border-radius: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-home {
+  border: 3px solid rgb(236, 168, 168);
+  height: 450px;
+  border-radius: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#footer {
+  background-color: gainsboro;
+} 
